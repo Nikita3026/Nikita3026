@@ -1,30 +1,32 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Nikita👋
 
 
 
-## I'm a Student, Father, Developer, and Teacher!
+## I'm a Student, Junior Front-End Developer and just a Self-developing person.
 
 
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 
 - 🌱 I’m currently learning everything 🤣
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 Always happy to meet interesting people
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Find a job as a front-end developer
 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ A couple of my hobbies: I love to do sports, develop smth new and unusual, surf the Internet in search of interesting information
 
 
 
 ### Connect with me:
 
 
+[<img align="left" alt="Nikita3026 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](@Nikita3026)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nikita3026 | VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](@Nikita3026)
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nikita3026 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Nikita3026 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
@@ -85,7 +87,7 @@
 
 <details>
 <summary>:zap: Top Langs</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3026)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
