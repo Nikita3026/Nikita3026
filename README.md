@@ -45,7 +45,9 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nikita3026&show_icons=true&hide_border=true" />
+</details>
 
+<details>
  <summary>:zap: Top Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
