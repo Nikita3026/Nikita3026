@@ -72,7 +72,3 @@
 
 <img  align="left"  alt="codeSTACKr's Github Stats"  src="https://github-readme-stats.codestackr.vercel.app/api?username=Nikita3026&show_icons=true&hide_border=true"/>
 </details>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
