@@ -20,13 +20,13 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Nikita3026 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](@Nikita3026)
+[<img align="left" alt="Nikita3026 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://tlgg.ru/nikita3026)
 
-[<img align="left" alt="Nikita3026 | VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](@Nikita3026)
+[<img align="left" alt="Nikita3026 | VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/id172014946)
 
-[<img align="left" alt="Nikita3026 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nikita3026 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](@Nikita3026)
 
-[<img align="left" alt="Nikita3026 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nikita3026 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/never_mind32/)
 
 
 
