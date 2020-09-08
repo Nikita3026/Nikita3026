@@ -24,7 +24,7 @@
 
 [<img align="left" alt="Nikita3026 | VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/id172014946)
 
-[<img align="left" alt="Nikita3026 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](@Nikita3026)
+[<img align="left" alt="Nikita3026 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.cn/mwlite/in/nikita-mihadyuk-6a3a3a1b5)
 
 [<img align="left" alt="Nikita3026 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/never_mind32/)
 
